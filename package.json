@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Ollie de Guzman",
   "license": "MIT",
-  "scripts": {    
+  "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
     "dev-server": "webpack-dev-server",
@@ -22,10 +22,11 @@
     "babel-preset-react": "6.24.1",
     "css-loader": "0.28.4",
     "express": "4.15.4",
-    "extract-text-webpack-plugin": "3.0.0",    
+    "extract-text-webpack-plugin": "3.0.0",
     "moment": "2.18.1",
     "node-sass": "4.9.0",
     "normalize.css": "7.0.0",
+    "numeral": "2.0.6",
     "raf": "3.3.2",
     "react": "16.0.0",
     "react-addons-shallow-compare": "15.6.0",
