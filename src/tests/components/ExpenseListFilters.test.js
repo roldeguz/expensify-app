@@ -3,8 +3,6 @@ import { shallow } from 'enzyme';
 import moment from 'moment';
 import { ExpenseListFilters } from '../../components/ExpenseListFilters';
 import { filters, altFilters } from '../fixtures/filters';
-import { isMoment } from '../../../node_modules/moment';
-import { WSAEPROTONOSUPPORT } from 'constants';
 
 let setTextFilter, sortByDate, sortByAmount, setStartDate, setEndDate, wrapper;
 
