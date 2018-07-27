@@ -1,10 +1,19 @@
 // Google Fonts
-@import url(http://fonts.googleapis.com/css?family=Roboto|Open+Sans:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto|Open+Sans:400italic,700italic,400,700);
 
 $roboto: 'Roboto', serif;   
 $open-sans: 'Open Sans', sans-serif;
 
 // Colors
+$dark-grey: #333333;
+$grey: #666;
+$blue: #1C88BF;
+$dark-blue: #364051;
+$off-white: #F7F7F7;
+
+//Font size
+$font-size-large: 1.8rem;
+$font-size-small: 1.4rem;
 
 // Spacing
 $s-size: 1.2rem;
